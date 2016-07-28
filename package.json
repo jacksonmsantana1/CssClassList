@@ -1,6 +1,5 @@
 {
   "name": "css-class-list",
-  "version": "0.0.1",
   "description": "ClassList Dom like Class ",
   "main": "dist/index.umd.js",
   "scripts": {
@@ -57,5 +56,9 @@
     }
   },
   "author": "jackson.m.santana1 <jackson.m.santana1@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacksonmsantana1/CssClassList.git"
+  }
 }
